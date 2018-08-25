@@ -1,5 +1,3 @@
 updatetime20180825updatetime
 updateurlhttp://software-1252556384.coscd.myqcloud.com/DSSC%20kit.exe?sign=hE+LH2qlUxtMnOGbVFx1GY4IfP1hPTEyNTI1NTYzODQmaz1BS0lEcWxUNllvZ2xVMU1WU010ZzNGRjZwUG4zZkJXZjRRMVUmZT0xNTM3Nzc5MzE4JnQ9MTUzNTE4NzMxOCZyPTIwNDYyMzY5OTUmZj0vRFNTQyUyMGtpdC5leGUmYj1zb2Z0d2FyZQ==updateurl
-updatereme1.优化了稳定性
-2.修复了部分bug
-3.增加了eis数据处理updatereme
+updatereme1.优化了稳定性+2.修复了部分bug+3.增加了eis数据处理updatereme
