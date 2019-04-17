@@ -1,3 +1,3 @@
 updatetime20190415updatetime
-updateurlhttps://www.lanzous.com/i3svd3iupdateurl
+updateurlhttps://www.lanzous.com/i3t5graupdateurl
 updatereme更新时间为2019年04月15日+1.更新了ECharts绘图引擎和miniblink浏览器内核并重写了软件底层+2.加入紫外、IPCE数据处理方法+3.可能加入了未知的BUG+4.可以导出IV的详细数据列表了+绘制的eis的数据依然没有任何参考性，但是导出的数据是两行的，需要指定xy轴+5.如果有好的建议请反馈作者updatereme
